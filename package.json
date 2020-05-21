@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrickleet/express-servicebus.git"
+    "url": "https://github.com/servicebus/express-middleware.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/patrickleet/express-servicebus/issues"
+    "url": "https://github.com/servicebus/express-middleware/issues"
   },
-  "homepage": "https://github.com/patrickleet/express-servicebus#readme",
+  "homepage": "https://github.com/servicebus/express-middleware#readme",
   "devDependencies": {
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
