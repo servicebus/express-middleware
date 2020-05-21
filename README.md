@@ -1,5 +1,5 @@
-# express-servicebus
-[![Build Status](https://travis-ci.org/patrickleet/express-servicebus.svg?branch=master)](https://travis-ci.org/patrickleet/express-servicebus)
-[![codecov](https://codecov.io/gh/patrickleet/express-servicebus/branch/master/graph/badge.svg)](https://codecov.io/gh/patrickleet/express-servicebus) [![Greenkeeper badge](https://badges.greenkeeper.io/patrickleet/express-servicebus.svg)](https://greenkeeper.io/)
+# @servicebus/express-middleware
+[![Build Status](https://travis-ci.org/servicebus/express-middleware.svg?branch=master)](https://travis-ci.org/servicebus/express-middleware)
+[![codecov](https://codecov.io/gh/servicebus/express-middleware/branch/master/graph/badge.svg)](https://codecov.io/gh/servicebus/express-middleware)
 
 takes a bus and makes it available on the `res` object
