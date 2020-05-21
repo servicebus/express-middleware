@@ -1,4 +1,4 @@
-const expressServicebus = require('express-servicebus')
+const expressServicebus = require('./index.js')
 
 describe('express-servicebus', () => {
   it('adds bus to res object', () => {
