@@ -1,5 +1,5 @@
 {
-  "name": "express-servicebus",
+  "name": "@servicebus/express-middleware",
   "version": "0.0.0-development",
   "description": "takes a bus and makes it available on the `res` object",
   "main": "index.js",
